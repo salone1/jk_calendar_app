@@ -1,0 +1,21 @@
+{
+  "version": "2026-01-23T11:47:00Z+v1",
+  "region": "JammuAndKashmir",
+  "published_by": "lonesalis4@gmail.com",
+  "published_at": "2026-01-23T11:47:00Z",
+  "notes": "Month start list. Only month start (gregorian) entries. Update this file after local rukyat confirmation.",
+  "month_starts": [
+    { "hijri_month": "1447-05", "gregorian_start": "2026-01-17", "status": "confirmed", "notes": "Example: confirmed by local committee" },
+    { "hijri_month": "1447-06", "gregorian_start": "2026-02-16", "status": "provisional" },
+    { "hijri_month": "1447-07", "gregorian_start": "2026-03-17", "status": "provisional" },
+    { "hijri_month": "1447-08", "gregorian_start": "2026-04-16", "status": "provisional" },
+    { "hijri_month": "1447-09", "gregorian_start": "2026-05-16", "status": "provisional" },
+    { "hijri_month": "1447-10", "gregorian_start": "2026-06-15", "status": "provisional" },
+    { "hijri_month": "1447-11", "gregorian_start": "2026-07-15", "status": "provisional" },
+    { "hijri_month": "1447-12", "gregorian_start": "2026-08-13", "status": "provisional" },
+    { "hijri_month": "1448-01", "gregorian_start": "2026-09-11", "status": "provisional" },
+    { "hijri_month": "1448-02", "gregorian_start": "2026-10-11", "status": "provisional" },
+    { "hijri_month": "1448-03", "gregorian_start": "2026-11-09", "status": "provisional" },
+    { "hijri_month": "1448-04", "gregorian_start": "2026-12-09", "status": "provisional" }
+  ]
+}
