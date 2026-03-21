@@ -1,0 +1,38 @@
+{
+  "repo": {
+    "github_raw_base": "https://raw.githubusercontent.com/salone1/jk_calendar_app/main/"
+  },
+  "lastSync": null,
+  "admin": {
+    "name": "Salis Amin",
+    "portfolio": "https://rasik.example.com"
+  },
+  "adminMessage": {
+    "title": "Office Notice",
+    "text": "Please note: office hours may change during festival periods. Check local announcements.",
+    "start": "2026-03-01",
+    "end": "2026-03-31"
+  },
+  "greetings": [
+    {
+      "id": "eid-2026",
+      "title": "Eid Mubarak",
+      "text": "Eid Mubarak to everyone in Jammu & Kashmir. May peace and joy be with you.",
+      "start": "2026-03-20",
+      "end": "2026-03-22"
+    }
+  ],
+  "islamic_overrides": {
+  //  "2026-04-13": { "y": 1447, "m": 10, "d": 1 },
+ //   "2026-05-12": { "y": 1447, "m": 11, "d": 1 }
+  },
+  "seed_sighting": {
+    "gregorian": "2026-02-19",
+    "islamic": { "y": 1447, "m": 9, "d": 1 },
+    "prev_month_length": 29,
+    "note": "Shaban was 29 days and completed on 18-Feb-2026; 19-Feb-2026 is 1 Ramadan (seed)."
+  },
+  "known_month_lengths": {
+    "1447-09": 30
+  }
+}
