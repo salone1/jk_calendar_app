@@ -4,7 +4,6 @@
   "notes": "here its newly updated ",
   "adjustments": [
     { "hijriYear": 1447, "hijriMonth": 9,  "gregorianStartDate": "2026-02-17" },
-    { "hijriYear": 1447, "hijriMonth": 10, "gregorianStartDate": "2026-03-19" },
-    ...
+    { "hijriYear": 1447, "hijriMonth": 10, "gregorianStartDate": "2026-03-19" }
   ]
 }
